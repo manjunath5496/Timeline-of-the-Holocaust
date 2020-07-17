@@ -936,3 +936,204 @@
 </tr>
 </tbody>
 </table>
+</br>
+
+<h2>Timeline of the Holocaust in Norway </h2>
+
+<table border="1" cellspacing="0" cellpadding="5">
+<tbody>
+<tr>
+<td><strong>Date</strong></td>
+<td><strong>Event</strong></td>
+</tr>
+<tr>
+<td>17 May 1933</td>
+<td><a title="Vidkun Quisling" href="https://en.wikipedia.org/wiki/Vidkun_Quisling">Vidkun Quisling</a>&nbsp;founds&nbsp;<a title="Nasjonal Samling" href="https://en.wikipedia.org/wiki/Nasjonal_Samling">Nasjonal Samling</a></td>
+</tr>
+<tr>
+<td>7 February 1939</td>
+<td>Quisling gives speech on the "Jewish Danger"<sup id="cite_ref-1" class="reference"></sup></td>
+</tr>
+<tr>
+<td>9 April 1940</td>
+<td>Operation&nbsp;<a class="mw-redirect" title="Weser&uuml;bung" href="https://en.wikipedia.org/wiki/Weser%C3%BCbung">Weser&uuml;bung</a>: German forces invade and occupy Norway</td>
+</tr>
+<tr>
+<td>10 April 1940</td>
+<td>The&nbsp;<a title="Gestapo" href="https://en.wikipedia.org/wiki/Gestapo">Gestapo</a>&nbsp;arrives in&nbsp;<a title="Haugesund" href="https://en.wikipedia.org/wiki/Haugesund">Haugesund</a>, seeking to arrest&nbsp;<a title="Moritz Rabinowitz" href="https://en.wikipedia.org/wiki/Moritz_Rabinowitz">Moritz Rabinowitz</a></td>
+</tr>
+<tr>
+<td>18 April 1940</td>
+<td><a title="Adolf Hitler" href="https://en.wikipedia.org/wiki/Adolf_Hitler">Hitler</a>&nbsp;declares Norway a "hostile country" that can freely be exploited&nbsp;<sup id="cite_ref-2" class="reference"></sup></td>
+</tr>
+<tr>
+<td>24 April 1940</td>
+<td>Hitler names&nbsp;<a title="Josef Terboven" href="https://en.wikipedia.org/wiki/Josef_Terboven">Josef Terboven</a>&nbsp;as Reichskommissar with power to invoke and enforce decrees</td>
+</tr>
+<tr>
+<td>10 May 1940</td>
+<td>All radios in the possession of Jews are ordered confiscated</td>
+</tr>
+<tr>
+<td>25 September 1940</td>
+<td>Terboven speaks to the Norwegian people, promising tolerance of all religions</td>
+</tr>
+<tr>
+<td>4 December 1940</td>
+<td>Moritz Rabinowitz is arrested by the Gestapo</td>
+</tr>
+<tr>
+<td>16 January 1941</td>
+<td>Brawl breaks out in Bergen when Nazis try to prevent&nbsp;<a title="Ernst Glaser" href="https://en.wikipedia.org/wiki/Ernst_Glaser">Ernst Glaser</a>&nbsp;from performing</td>
+</tr>
+<tr>
+<td>1 March 1941</td>
+<td>Benjamin Bild is arrested in&nbsp;<a title="Kjeller" href="https://en.wikipedia.org/wiki/Kjeller">Kjeller</a></td>
+</tr>
+<tr>
+<td>21 April 1941</td>
+<td>The synagogue in&nbsp;<a title="Trondheim" href="https://en.wikipedia.org/wiki/Trondheim">Trondheim</a>&nbsp;is seized and vandalized</td>
+</tr>
+<tr>
+<td>23 June 1941</td>
+<td>Decree bans Jews from practicing law</td>
+</tr>
+<tr>
+<td>23 June 1941</td>
+<td>Sixty Jewish prisoners are imprisoned at&nbsp;<a class="mw-redirect" title="Grini concentration camp" href="https://en.wikipedia.org/wiki/Grini_concentration_camp">Grini</a></td>
+</tr>
+<tr>
+<td>10 October 1941</td>
+<td>All Jews in Norway are ordered to submit their identification papers to be stamped with the letter "J"</td>
+</tr>
+<tr>
+<td>26 December 1941</td>
+<td>Benjamin Bild dies at&nbsp;<a title="Gross-Rosen concentration camp" href="https://en.wikipedia.org/wiki/Gross-Rosen_concentration_camp">Gross-Rosen</a></td>
+</tr>
+<tr>
+<td>22 January 1942</td>
+<td>"Racial" definitions of Jewish identity are formalized in Norway</td>
+</tr>
+<tr>
+<td>28 January 1942</td>
+<td><a title="Hellmuth Reinhard" href="https://en.wikipedia.org/wiki/Hellmuth_Reinhard">Hellmuth Reinhard</a>&nbsp;arrives in Norway, taking charge of the Gestapo</td>
+</tr>
+<tr>
+<td>1 February 1942</td>
+<td>Quisling claims that the Norwegian constitution's paragraph 2's last clause is back in force, banning Jews from Norway</td>
+</tr>
+<tr>
+<td>6 February 1942</td>
+<td>All Jews are ordered to complete questionnaire in triplicate</td>
+</tr>
+<tr>
+<td>27 February 1942</td>
+<td>Moritz Rabinowitz is beaten to death in&nbsp;<a title="Sachsenhausen concentration camp" href="https://en.wikipedia.org/wiki/Sachsenhausen_concentration_camp">Sachsenhausen</a></td>
+</tr>
+<tr>
+<td>7 March 1942</td>
+<td>Four Jewish Norwegians are executed at&nbsp;<a title="Falstad concentration camp" href="https://en.wikipedia.org/wiki/Falstad_concentration_camp">Falstad concentration camp</a>&nbsp;on trumped-up charges</td>
+</tr>
+<tr>
+<td>21 August 1942</td>
+<td>Nine Jews arrested in&nbsp;<a title="N&aelig;rsnes" href="https://en.wikipedia.org/wiki/N%C3%A6rsnes">N&aelig;rsnes</a>, outside&nbsp;<a title="Oslo" href="https://en.wikipedia.org/wiki/Oslo">Oslo</a></td>
+</tr>
+<tr>
+<td>6 October 1942</td>
+<td><a title="Martial law in Trondheim in 1942" href="https://en.wikipedia.org/wiki/Martial_law_in_Trondheim_in_1942">Martial law is declared in Trondheim</a>; 34 Norwegians are murdered and all Jewish men over 15 are detained; women and children moved to two apartments</td>
+</tr>
+<tr>
+<td>7 October 1942</td>
+<td><a title="Halldis Neegaard &Oslash;stbye" href="https://en.wikipedia.org/wiki/Halldis_Neegaard_%C3%98stbye">Halldis Neegaard &Oslash;stbye</a>&nbsp;writes letter to Quisling proposing that Jews be killed "quickly and painlessly"</td>
+</tr>
+<tr>
+<td>22 October 1942</td>
+<td>Arne Hvam is shot by a member of the Norwegian resistance smuggling Jews out of Norway; a hunt throughout &Oslash;stfold ensues</td>
+</tr>
+<tr>
+<td>26 October 1942</td>
+<td>Jewish men over 15 are arrested; all Jewish property is ordered confiscated</td>
+</tr>
+<tr>
+<td>27 October 1942</td>
+<td><a title="Feldmann case" href="https://en.wikipedia.org/wiki/Feldmann_case">Rakel and Jacob Feldmann</a>&nbsp;are killed by border pilots at Skrikerudtjern</td>
+</tr>
+<tr>
+<td>10 November 1942</td>
+<td>Seven&nbsp;<a title="Church of Norway" href="https://en.wikipedia.org/wiki/Church_of_Norway">Church of Norway</a>&nbsp;bishops submit a letter to Quisling protesting the persecution of Jews</td>
+</tr>
+<tr>
+<td>13 November 1942</td>
+<td>Three Jewish prisoners are shot at Falstad</td>
+</tr>
+<tr>
+<td>19 November 1942</td>
+<td>The&nbsp;<a class="mw-redirect" title="MS Monte Rosa (1930)" href="https://en.wikipedia.org/wiki/MS_Monte_Rosa_(1930)">MS&nbsp;<em>Monte Rosa</em></a>&nbsp;sails for Hamburg with 21 Jewish deportees; none survive</td>
+</tr>
+<tr>
+<td>25 November 1942</td>
+<td>The&nbsp;<a title="SS Donau (1929)" href="https://en.wikipedia.org/wiki/SS_Donau_(1929)">SS&nbsp;<em>Donau</em></a>&nbsp;is requisitioned for transport of Jews from Norway</td>
+</tr>
+<tr>
+<td>26 November 1942</td>
+<td>540 Jewish men, women, and children board the SS&nbsp;<em>Donau</em>, bound for Stettin</td>
+</tr>
+<tr>
+<td>26 November 1942</td>
+<td>The MS&nbsp;<em>Monte Rosa</em>&nbsp;sails for Hamburg with 26 Jewish deportees; 2 survive</td>
+</tr>
+<tr>
+<td>1 December 1942</td>
+<td>The&nbsp;<a title="Jewish deportees from Norway during World War II" href="https://en.wikipedia.org/wiki/Jewish_deportees_from_Norway_during_World_War_II">prisoners on the&nbsp;<em>Donau</em></a>&nbsp;arrive at Auschwitz; most are sent to the gas chambers immediately</td>
+</tr>
+<tr>
+<td>20 January 1943</td>
+<td>Prominent Norwegians in Sweden implore the British government to intervene to save Norwegian Jews; they are rebuffed</td>
+</tr>
+<tr>
+<td>24 February 1943</td>
+<td>The&nbsp;<a class="new" title="MS Gotenland (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=MS_Gotenland&amp;action=edit&amp;redlink=1"><em>Gotenland</em></a>&nbsp;sails for Stettin with 158 Jewish prisoners; 6 survive</td>
+</tr>
+<tr>
+<td>3 March 1943</td>
+<td>The prisoners on the&nbsp;<em>Gotenland</em>&nbsp;arrive in Auschwitz; most are sent to the gas chambers immediately</td>
+</tr>
+<tr>
+<td>8 May 1945</td>
+<td>Norway is liberated</td>
+</tr>
+<tr>
+<td>30 May 1945</td>
+<td>Five of the Norwegian Holocaust survivors return to Norway</td>
+</tr>
+<tr>
+<td>31 August 1945</td>
+<td>Memorial service for the victims of the Holocaust held at the synagogue in Oslo</td>
+</tr>
+<tr>
+<td>14 October 1947</td>
+<td>The synagogue in Trondheim is rededicated</td>
+</tr>
+<tr>
+<td>1 November 1948</td>
+<td>Monument unveiled at Helsfyr cemetery in Oslo</td>
+</tr>
+<tr>
+<td>6 May 1986</td>
+<td>Monument honoring Moritz Rabinowitz unveiled in Haugesund</td>
+</tr>
+<tr>
+<td>23 November 1997</td>
+<td>Skarpnes commission submits report on financial loss to the&nbsp;<a class="mw-redirect" title="Stortinget" href="https://en.wikipedia.org/wiki/Stortinget">Norwegian parliament</a></td>
+</tr>
+<tr>
+<td>23 August 2006</td>
+<td><a class="mw-redirect" title="Norwegian Center for Studies of Holocaust and Religious Minorities" href="https://en.wikipedia.org/wiki/Norwegian_Center_for_Studies_of_Holocaust_and_Religious_Minorities">Norwegian Center for Studies of Holocaust and Religious Minorities</a>&nbsp;opens in Oslo</td>
+</tr>
+<tr>
+<td>7 October 2006</td>
+<td>Falstadsenteret opens</td>
+</tr>
+</tbody>
+</table>
+</br>
